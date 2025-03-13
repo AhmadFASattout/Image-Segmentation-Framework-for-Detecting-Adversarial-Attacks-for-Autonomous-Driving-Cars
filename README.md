@@ -26,3 +26,15 @@ tensorenv_adv_env.Yaml representing the required python packages to run our adve
 
 
 ## Cite this work
+@Article{app15031328,
+AUTHOR = {Sattout, Ahmad Fakhr Aldeen and Chehab, Ali and Mohanna, Ammar and Tajeddine, Razane},
+TITLE = {Image Segmentation Framework for Detecting Adversarial Attacks for Autonomous Driving Cars},
+JOURNAL = {Applied Sciences},
+VOLUME = {15},
+YEAR = {2025},
+NUMBER = {3},
+ARTICLE-NUMBER = {1328},
+URL = {https://www.mdpi.com/2076-3417/15/3/1328},
+ISSN = {2076-3417},
+DOI = {10.3390/app15031328}
+}
