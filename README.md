@@ -3,10 +3,10 @@ This is a GitHub implementaion of our paper titled "Image Segmentation Framework
 
 # The Goal of this GitHub:
 * To let the researchers reproduce the same results of our paper.
-* The development of more advance adversarial detection method based on our upadted code and framework will be easier and faster.
+* The development of more advanced adversarial detection methods based on our updated code and framework will be easier and faster.
 
 
-Generating Adversrail attacks was based one **Feature Squeezing** code with updating the code to work using Python 3.6. Please
+Generating adversarial attacks was based on **Feature Squeezing** code with updating the code to work using Python 3.6. Please
 
 **Feature Squeezing**
 ```
@@ -20,9 +20,9 @@ Generating Adversrail attacks was based one **Feature Squeezing** code with upda
 
 ## 1. Install dependencies.
 
-Please install all the required Python packeges from the Yaml files and create two different environments.
-spd_adv_env.Yaml representing the required python packages to run eleven Attacks on the MNIST, CIFAR-10, and GTSRB-8 datasets.
-tensorenv_adv_env.Yaml representing the required python packages to run our adversarial detection framework.
+Please install all the required Python packages from the Yaml files and create two different environments.
+spd_adv_env.Yaml representing the required Python packages to run eleven Attacks on the MNIST, CIFAR-10, and GTSRB-8 datasets.
+tensorenv_adv_env.Yaml representing the required Python packages to run our adversarial detection framework.
 
 
 ## Cite this work
