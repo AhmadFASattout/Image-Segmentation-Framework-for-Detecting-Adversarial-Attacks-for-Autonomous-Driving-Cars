@@ -34,7 +34,7 @@ VOLUME = {15},
 YEAR = {2025},
 NUMBER = {3},
 ARTICLE-NUMBER = {1328},
-URL = {https://www.mdpi.com/2076-3417/15/3/1328},
+URL = https://www.mdpi.com/2076-3417/15/3/1328,
 ISSN = {2076-3417},
 DOI = {10.3390/app15031328}
 }
