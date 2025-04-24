@@ -24,6 +24,7 @@ Please install all the required Python packages from the Yaml files and create t
 spd_adv_env.Yaml representing the required Python packages to run eleven Attacks on the MNIST, CIFAR-10, and GTSRB-8 datasets.
 tensorenv_adv_env.Yaml representing the required Python packages to run our adversarial detection framework.
 
+## 2. Follow How_to_Use.md file to set up the detection Method.
 
 ## Cite this work
 @Article{app15031328,
